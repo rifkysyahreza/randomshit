@@ -21,4 +21,4 @@ Change it to : 6080
 
 Enjoy your free Desktop Linux shell
 
-Limit 50 hrs/week
+Limit 50 hrs/weeks
